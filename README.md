@@ -1,4 +1,4 @@
-# Servidor del Asistente 3D Organ
+# Servidor del Asistente 3D Organ Inc
 
 Mini backend en Node.js que guarda tu API key de Gemini y es el único que habla con Google.
 La app (web y móvil) solo habla con este servidor, así la key nunca queda dentro del código descargable.
